@@ -1,5 +1,13 @@
 // Daniel's Particle brush
 
+// Rezie window
+function windowResized() {
+	if (fullscreen()) resizeCanvas(displayWidth, displayHeight);
+	else resizeCanvas(windowWidth, windowHeight);
+}
+
+// Sketch
+
 let particles = []; // Array to store all particles
 let speed = 1.9;
 let connectRadius = 100;
