@@ -12,10 +12,10 @@ I dette forløb vil deltagerne lære de grundlæggende elementer i webudvikling,
 
 
 ## 🗓 Forløbsplan
-[Powerpoint til forløbsplan](https://docs.google.com/presentation/d/1duisdrjTgDlk4AN3Xtas3B6QmV0I69crLnrk9b3tiGE/edit?usp=sharing)
+[Powerpoint til forløbsplan](https://docs.google.com/presentation/d/1duisdrjTgDlk4AN3Xtas3B6QmV0I69crLnrk9b3tiGE)
 
 ## 🗓 Undervisningsmateriale
-[Powerpoint til undervisningsmateriale](https://docs.google.com/presentation/d/14leIk7XblcOKcE3yx2phcKiqHsbb4UuYykDlCd6MLlg/edit#slide=id.g2fab85d18c9_0_23)
+[Powerpoint til undervisningsmateriale](https://docs.google.com/presentation/d/14leIk7XblcOKcE3yx2phcKiqHsbb4UuYykDlCd6MLlg)
 
 1. **Uge 1**: Introduktion til HTML. Lave en simpel side med tekst, billeder og links.
 2. **Uge 2**: Introduktion til CSS. Tilføje farver, skrifttyper og layout til hjemmesiden.
@@ -34,10 +34,10 @@ Ved afslutningen af forløbet vil deltagerne have:
 ##
 ### 📄 Ressourcer
 
-- [HTML Cheatsheet](https://www.w3schools.com/html/){:target="_blank"}
-- [CSS Cheatsheet](https://www.w3schools.com/css/){:target="_blank"}
-- [JavaScript Cheatsheet](https://www.w3schools.com/js/){:target="_blank"}
-- [Hvordan hoster jeg en hjemmeside på GitHub?](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank"}
+- [HTML Cheatsheet](https://www.w3schools.com/html/)
+- [CSS Cheatsheet](https://www.w3schools.com/css/)
+- [JavaScript Cheatsheet](https://www.w3schools.com/js/)
+- [Hvordan hoster jeg en hjemmeside på GitHub?](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 ##
 ### 🌟 Tips og Tricks
