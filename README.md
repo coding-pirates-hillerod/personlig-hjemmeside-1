@@ -2,7 +2,7 @@
 
 Velkommen til Coding Pirates Hillerøds forløb om HTML, CSS og JavaScript! Dette repo indeholder materiale og ressourcer til at hjælpe børn med at skabe deres egen sjove og personlige hjemmeside.
 
-## 📚 Om Forløbet
+## 🎡 Om Forløbet
 
 I dette forløb vil deltagerne lære de grundlæggende elementer i webudvikling, herunder:
 - **HTML** (HyperText Markup Language): Grundstrukturen for webindhold.
@@ -11,18 +11,21 @@ I dette forløb vil deltagerne lære de grundlæggende elementer i webudvikling,
 
 
 
-## 🗓 Forløbsplan
+## 🌱 Forløbsplan
 [Powerpoint til forløbsplan](https://docs.google.com/presentation/d/1duisdrjTgDlk4AN3Xtas3B6QmV0I69crLnrk9b3tiGE)
 
-## 🗓 Undervisningsmateriale
+## 📅 Undervisningsmateriale
 [Powerpoint til undervisningsmateriale](https://docs.google.com/presentation/d/14leIk7XblcOKcE3yx2phcKiqHsbb4UuYykDlCd6MLlg)
 
 1. **Uge 1**: Introduktion til HTML. Lave en simpel side med tekst, billeder og links.
 2. **Uge 2**: Introduktion til CSS. Tilføje farver, skrifttyper og layout til hjemmesiden.
 3. **Uge 3**: Introduktion til JavaScript. Brug en knap. Og gøre hjemmesiden interaktiv med animationer.
 
-## 🗓 Eksempelside
+## ❇️ Eksempelside
 [Personlig hjemmeside eksempel](https://coding-pirates-hillerod.github.io/personlig-hjemmeside-1/)
+
+## 🆘 Rod i koden?
+Brug mine branches til at download eksempel-kode
 
 ##
 ### Mål for Forløbet
