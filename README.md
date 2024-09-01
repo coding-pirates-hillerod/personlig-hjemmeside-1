@@ -25,7 +25,7 @@ I dette forløb vil deltagerne lære de grundlæggende elementer i webudvikling,
 [Personlig hjemmeside eksempel](https://coding-pirates-hillerod.github.io/personlig-hjemmeside-1/)
 
 ## 🆘 Rod i koden?
-Brug mine branches til at download eksempel-kode.
+Brug mine branches til at download eksempel-kode under mappen 'codealong'.
 
 ##
 ### Mål for Forløbet
