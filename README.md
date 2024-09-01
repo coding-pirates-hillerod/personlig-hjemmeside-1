@@ -12,17 +12,17 @@ I dette forløb vil deltagerne lære de grundlæggende elementer i webudvikling,
 
 
 ## 🗓 Forløbsplan
-[Powerpoint til forløbsplan](https://docs.google.com/presentation/d/1duisdrjTgDlk4AN3Xtas3B6QmV0I69crLnrk9b3tiGE/edit?usp=sharing){:target="_blank"}
+[Powerpoint til forløbsplan](https://docs.google.com/presentation/d/1duisdrjTgDlk4AN3Xtas3B6QmV0I69crLnrk9b3tiGE/edit?usp=sharing)
 
 ## 🗓 Undervisningsmateriale
-[Powerpoint til undervisningsmateriale](https://docs.google.com/presentation/d/14leIk7XblcOKcE3yx2phcKiqHsbb4UuYykDlCd6MLlg/edit#slide=id.g2fab85d18c9_0_23){:target="_blank"}
+[Powerpoint til undervisningsmateriale](https://docs.google.com/presentation/d/14leIk7XblcOKcE3yx2phcKiqHsbb4UuYykDlCd6MLlg/edit#slide=id.g2fab85d18c9_0_23)
 
 1. **Uge 1**: Introduktion til HTML. Lave en simpel side med tekst, billeder og links.
 2. **Uge 2**: Introduktion til CSS. Tilføje farver, skrifttyper og layout til hjemmesiden.
 3. **Uge 3**: Introduktion til JavaScript. Brug en knap. Og gøre hjemmesiden interaktiv med animationer.
 
 ## 🗓 Eksempelside
-[Personlig hjemmeside eksempel](https://coding-pirates-hillerod.github.io/personlig-hjemmeside-1/){:target="_blank"}
+[Personlig hjemmeside eksempel](https://coding-pirates-hillerod.github.io/personlig-hjemmeside-1/)
 
 ##
 ### Mål for Forløbet
