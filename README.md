@@ -24,6 +24,9 @@ I dette forløb vil deltagerne lære de grundlæggende elementer i webudvikling,
 ## ❇️ Eksempelside
 [Personlig hjemmeside eksempel](https://coding-pirates-hillerod.github.io/personlig-hjemmeside-1/)
 
+Tryk '**c**' for at skifte farve.
+Tryk '**mellemrum**' for at skifte animation.
+
 ## 🆘 Rod i koden?
 Brug mine branches til at download eksempel-kode under mappen 'codealong'.
 
